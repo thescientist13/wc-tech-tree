@@ -1,1 +1,1 @@
-# wc-skill-tree
+# wc-tech-tree
