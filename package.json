@@ -14,5 +14,8 @@
   },
   "devDependencies": {
     "@greenwood/cli": "~0.26.0"
+  },
+  "dependencies": {
+    "xstate": "^4.33.1"
   }
 }
