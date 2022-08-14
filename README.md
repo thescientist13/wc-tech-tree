@@ -1,1 +1,1 @@
-# wc-skill-tree
+# wccg-skill-tree
