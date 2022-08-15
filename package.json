@@ -12,6 +12,10 @@
     "build": "greenwood build",
     "serve": "greenwood serve"
   },
+  "dependencies": {
+    "@xstate/inspect": "^0.7.0",
+    "xstate": "^4.33.1"
+  },
   "devDependencies": {
     "@greenwood/cli": "~0.26.0"
   }
